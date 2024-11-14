@@ -1,21 +1,27 @@
 body{
-    color: blueviolet;
+    color: rgb(158, 119, 195);
     background: pink;
     margin: 0px;
     font-family: "Playwrite GB S", cursive;
     margin-bottom: 100px;
 }
 header{
-    border-bottom: solid 3px blue;
+    border-bottom: solid 3px rgb(196, 103, 175);
     padding: 20px;
     font-size: 32px;
-    color: rgb(148, 66, 80);
+    color: white;
 }
 
 .chamada{
-    background: rgb(206, 152, 161);
+    background: rgb(220, 198, 201);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 34px;
 }
